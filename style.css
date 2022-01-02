@@ -1,0 +1,31 @@
+
+body {
+    margin: 150px;
+    background: url("../rsschool-cv/img/css-dark-chain-background.png");
+    color: rgb(255, 255, 255);
+    font-family: Arial;
+    line-height: 1,5;
+}
+
+.self-logo {
+    width: 400px;
+    margin: 30px auto;
+    padding: 10px;
+    background-color: rgb(26, 25, 25);
+   box-shadow: 0 5px 10px rgb(97, 94, 94);
+   border-radius: 10px;
+}
+.self-photo {
+    display: block;
+    width: 100px;
+    height: 130px;
+    margin: 0 auto;
+    border-radius: 50% ;
+}
+
+.self-logo-title {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+}
+
