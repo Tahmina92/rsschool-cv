@@ -1,6 +1,6 @@
 # **Takhmina Mollaudova** 
 ![Photo](/Users/tahmina/Desktop/IMG_3944.jpg)
-### ***Phone:*** +7 777 157 31 57
+### ***Phone:*** +7 777 157 31 57 
 ### ***What's app:*** +86 18616121540  
 ### ***Email:*** m_tahmina@mail.ru  
 Teacher with 5+ years of experience teaching English in China on different levels. I am outgoing, responsible, confident, and ambitious individual. My passion for teaching is equally matched by my experience in it. One of my main skill is developing an affective teaching team. I am a lifelong learner. Always strike to acquiring new knowledge. Currently I am taking IT courses at RS School. Why IT? Take a look around. IT is everywhere. And every day, it changes the world. IT is our future.
