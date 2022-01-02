@@ -1,2 +1,2 @@
-https://Tahmina92.github.io/rsschool-cv/ 
+https://tahmina92.github.io/rsschool-cv/
 
